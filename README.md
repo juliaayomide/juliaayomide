@@ -1,21 +1,53 @@
-Reordenar seções
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
-Pré-visualização
+### Olá, meu nome é {Julia Ayomide}!
 
-Markdown
 
-Cópia
-Olá! Meu nome é Julia Ayomide. ============================================================================================================================================== Olá, sou Técnica em Desenvolvimento de Sistemas, tenho 18 anos e um grande interesse em desenvolvimento web, com foco em Sou desenvolvedora Front-End. Desenvolvi projetos acadêmicos utilizando tecnologias como HTML, CSS, JavaScript, React, Node.js, Java e bancos de dados como MySQL e SQL. Além da minha formação técnica, busco constantemente aprimorar minhas habilidades por meio de cursos complementares e projetos de estudo dedicados. Sou comunicativa, proativa e sempre aberta a aprender coisas novas. * 🌍 Moro no Brasil, * ✉️ Você pode me contatar pelo e-mail [juliaayomide11@gmail.com](mailto:juliaayomide11@gmail.com) * 🧠 Atualmente estou aprendendo novas tecnologias * 👥 Busco colaborar em projetos que me ajudem a aprimorar meus conhecimentos
+![](https://komarev.com/ghpvc/?username=juliaayomide&color=006bed)
 
-<p align="left">
-<a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" alt="Java" title="Java" width="36" height="36" /></a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" alt="JavaScript" title="JavaScript" width="36" height="36" /></a> <a <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" alt="Git" title="Git" width="36" height="36" /></a> <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode-colored.svg" alt="VS Code" title="VS Code" width="36" height="36" /></a> <a <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" alt="HTML5" title="HTML5" width="36" height="36" /></a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" alt="React" title="React" width="36" height="36" /></a> <a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" alt="CSS3" title="CSS3" width="36" height="36" /></a> <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" alt="Bootstrap" title="Bootstrap" width="36" height="36" /></a> <a href="https://nodejs.<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" alt="NodeJS" title="NodeJS" width="36" height="36" /></a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" alt="MySQL" title="MySQL" width="36" height="36" /></a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" alt="Figma" title="Figma" width="36" height="36" /></a>
-</p>
+## Sobre mim
 
-### Redes sociais
+- 🤔 Sou curiosa e sempre interessada em aprender mais sobre tecnologia.
+- 🎓 Graduanda em Análise e Desenvolvimento de Sistemas.
+- 💼 Técnica em Desenvolvimento de Sistemas.
+- 🌱 Estudando para me tornar desenvolvedora Front-End.
 
-<p align="left"> </p> <a href="https://www.github.com/juliaayomide" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub" <a href="https://www.linkedin.com/in/juliaayomide" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" alt="LinkedIn" title="LinkedIn" /> </picture> </a>
-### Insígnias
+## Minhas Skills
 
-<b>Minhas estatísticas do GitHub</b>
+**Aplicações e dados**
 
-<a href="http://www.github.com/juliaayomide"><img src="https://github-readme-stats.vercel.app/api?username=juliaayomide&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="Estatísticas do GitHub de juliaayomide" /></a>
+![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=007396)
+![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
+![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
+![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
+![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
+![React Native](https://img.shields.io/badge/-React%20Native-333333?style=flat&logo=react)
+![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
+
+
+**DevOps**
+
+![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
+![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
+
+
+**Ferramentas de desenvolvimento**
+
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
+![Eclipse](https://img.shields.io/badge/-Eclipse-333333?style=flat&logo=eclipse-ide&logoColor=2C2255)
+![Trello](https://img.shields.io/badge/-Trello-333333?style=flat&logo=trello&logoColor=007ACC)
+![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma&logoColor=007ACC)
+
+
+<br/>
+
+<a href="https://github.com/iuricode" title="Perfil do Iuri">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=iuricode&theme=dracula&show_icons=true" />
+</a>
+
+## Onde me encontrar
+
+[![Linkedin](https://img.shields.io/badge/-username-blue?style=flat-square&logo=Linkedin&logoColor=white&link=www.linkedin.com/in/julia-ayomide)](www.linkedin.com/in/julia-ayomide)
+[![Gmail Badge](https://img.shields.io/badge/-juliaayomide11@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:juliaayomide11@gamil.com)](mailto:juliaayomide11@gmail.com)
+[![GitHub](https://img.shields.io/github/followers/juliaayomide?label=follow&style=social)](https://www.linkedin.com/in/julia-ayomide-0b9b1a2aa?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)
