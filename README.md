@@ -14,7 +14,7 @@
 
 ## Minhas Skills
 
-**Aplicações e dados**
+**Linguagens e Frameworks**
 
 ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=007396)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
@@ -42,6 +42,11 @@
 
 <br/>
 
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=juliaayomide&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+  <img src="https://github-profile-trophy.vercel.app?username=juliaayomide&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
+</div>
+
 
 ## Onde me encontrar
 
@@ -49,6 +54,8 @@
 [![Gmail Badge](https://img.shields.io/badge/-juliaayomide11@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:juliaayomide11@gamil.com)](mailto:juliaayomide11@gmail.com)
 [![GitHub](https://img.shields.io/github/followers/juliaayomide?label=follow&style=social)](https://www.linkedin.com/in/julia-ayomide-0b9b1a2aa?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)
 ![](https://komarev.com/ghpvc/?username=juliaayomide&color=006bed)
+
+<br/>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/juliaayomide/juliaayomide/output/pacman-contribution-graph-dark.svg">
