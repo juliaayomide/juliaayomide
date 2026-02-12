@@ -52,4 +52,5 @@
 [![Gmail Badge](https://img.shields.io/badge/-juliaayomide11@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:juliaayomide11@gamil.com)](mailto:juliaayomide11@gmail.com)
 [![GitHub](https://img.shields.io/github/followers/juliaayomide?label=follow&style=social)](https://www.linkedin.com/in/julia-ayomide-0b9b1a2aa?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)
 
-[![card](https://github-readme-stats.vercel.app/api?username=juliaayomide&theme=default)](https://github.com/anuraghazra/github-readme-stats)
+
+
