@@ -1,9 +1,9 @@
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
-
-# Olá, meu nome é {Julia Ayomide}!
 
 
-![](https://komarev.com/ghpvc/?username=juliaayomide&color=006bed)
+### Olá, meu nome é {Julia Ayomide}!
+## FrontEnd Developer
+
+
 
 ## Sobre mim
 
@@ -42,7 +42,7 @@
 
 <br/>
 
-<a href="https://github.com/iuricode" title="Perfil do Iuri">
+<a href="https://github.com/iuricode" title="Perfil da Julia">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=iuricode&theme=dracula&show_icons=true" />
 </a>
 
@@ -51,6 +51,5 @@
 [![Linkedin](https://img.shields.io/badge/-username-blue?style=flat-square&logo=Linkedin&logoColor=white&link=www.linkedin.com/in/julia-ayomide)](www.linkedin.com/in/julia-ayomide)
 [![Gmail Badge](https://img.shields.io/badge/-juliaayomide11@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:juliaayomide11@gamil.com)](mailto:juliaayomide11@gmail.com)
 [![GitHub](https://img.shields.io/github/followers/juliaayomide?label=follow&style=social)](https://www.linkedin.com/in/julia-ayomide-0b9b1a2aa?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)
-
-
+![](https://komarev.com/ghpvc/?username=juliaayomide&color=006bed)
 
