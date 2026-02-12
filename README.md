@@ -1,7 +1,7 @@
 
 
-# Olá, meu nome é {Julia Ayomide}!
-## Sou FrontEnd Developer
+<h3 align="left">Olá meu nome é Julia Ayomide</h3>
+<h4 align="left">Sou desenvolvedora FrontEnd</h3>
 
 
 
@@ -10,7 +10,7 @@
 - 🤔 Sou curiosa e sempre interessada em aprender mais sobre tecnologia.
 - 🎓 Graduanda em Análise e Desenvolvimento de Sistemas.
 - 💼 Técnica em Desenvolvimento de Sistemas.
-- 🌱 Estudando para me tornar desenvolvedora.
+- 🌱 Estou estudando para um futuro melhor.
 
 ## Minhas Skills
 
@@ -41,12 +41,6 @@
 
 
 <br/>
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=juliaayomide&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-  <img src="https://github-profile-trophy.vercel.app?username=juliaayomide&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
-</div>
-
 
 ## Onde me encontrar
 
