@@ -1,7 +1,7 @@
 
 
-### Olá, meu nome é {Julia Ayomide}!
-## FrontEnd Developer
+# Olá, meu nome é {Julia Ayomide}!
+## Sou FrontEnd Developer
 
 
 
@@ -10,7 +10,7 @@
 - 🤔 Sou curiosa e sempre interessada em aprender mais sobre tecnologia.
 - 🎓 Graduanda em Análise e Desenvolvimento de Sistemas.
 - 💼 Técnica em Desenvolvimento de Sistemas.
-- 🌱 Estudando para me tornar desenvolvedora Front-End.
+- 🌱 Estudando para me tornar desenvolvedora.
 
 ## Minhas Skills
 
