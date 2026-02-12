@@ -1,7 +1,7 @@
 
 
-<h3 align="left">Olá meu nome é Julia Ayomide</h3>
-<h4 align="left">Sou desenvolvedora FrontEnd</h3>
+<h3 align="left">Olá meu nome é Julia Ayomide</br>Sou desenvolvedora FrontEnd 💻 </h3>
+
 
 
 
