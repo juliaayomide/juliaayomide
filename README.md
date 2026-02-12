@@ -42,9 +42,6 @@
 
 <br/>
 
-<a href="https://github.com/iuricode" title="Perfil da Julia">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=iuricode&theme=dracula&show_icons=true" />
-</a>
 
 ## Onde me encontrar
 
@@ -52,4 +49,12 @@
 [![Gmail Badge](https://img.shields.io/badge/-juliaayomide11@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:juliaayomide11@gamil.com)](mailto:juliaayomide11@gmail.com)
 [![GitHub](https://img.shields.io/github/followers/juliaayomide?label=follow&style=social)](https://www.linkedin.com/in/julia-ayomide-0b9b1a2aa?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)
 ![](https://komarev.com/ghpvc/?username=juliaayomide&color=006bed)
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/juliaayomide/juliaayomide/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/juliaayomide/juliaayomide/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/juliaayomide/juliaayomide/output/pacman-contribution-graph.svg">
+</picture>
+
+###
 
